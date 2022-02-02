@@ -20,6 +20,7 @@
 https://github.com/DenverCoder1/github-readme-streak-stats
 http://github-readme-streak-stats.herokuapp.com/demo/
 https://github.com/anuraghazra/github-readme-stats
+https://github.com/athul/waka-readme
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
