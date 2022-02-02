@@ -1,9 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+[![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahliechti&hide=stars&show_icons=true&count_private=true&theme=dark)](https://github.com/noahliechti)
+[![Noah's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noahliechti&theme=dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF)](https://github.com/noahliechti)
 <!--
-**noahliechti/noahliechti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+https://github.com/DenverCoder1/github-readme-streak-stats
+http://github-readme-streak-stats.herokuapp.com/demo/
+https://github.com/anuraghazra/github-readme-stats
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
