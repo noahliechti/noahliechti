@@ -1,11 +1,11 @@
 # Hi, I'm Noah 🧃
 
 <a href="https://github.com/noahliechti" style="display: inline-block;">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=noahliechti&show_icons=true&count_private=true&theme=dark&hide_title=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=noahliechti&show_icons=true&count_private=true&theme=dark&hide_title=true" />
 </a>
 <br/>
 <a href="https://github.com/noahliechti">
-  <img width="40%" src="http://github-readme-streak-stats.herokuapp.com?user=noahliechti&theme=dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" />
+  <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=noahliechti&theme=dark&date_format=j%20M%5B%20Y%5D&border=FFFFFF" />
 </a>
 
 <!--
